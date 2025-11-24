@@ -9,7 +9,7 @@ terraform {
 
 provider "azurerm" {
   features {}
-  subscription_id = "760d0ae8-ba29-4890-833e-93f6891eedb9"
+  subscription_id = "xxxxxxxxxxxxxxxxxxxxxxxxx"
 }
 
 variable "vm_count" {
